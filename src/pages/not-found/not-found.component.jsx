@@ -1,3 +1,4 @@
+import "./not-found.component.scss";
 
 export default function NotFound() {
 

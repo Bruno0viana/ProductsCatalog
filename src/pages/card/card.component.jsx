@@ -1,3 +1,4 @@
+import './card.component.scss';
 
 export default function Card() {
 

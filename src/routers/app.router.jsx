@@ -3,7 +3,7 @@ import { createBrowserRouter } from "react-router-dom";
 
 import App from '../App';
 import Product from '../pages/product/product.component';
-import ProductDetails from '../pages/product/product-details.component';
+import ProductDetails from '../pages/product/product-details/product-details.component';
 import Card from '../pages/card/card.component';
 import NotFound from '../pages/not-found/not-found.component';
 
